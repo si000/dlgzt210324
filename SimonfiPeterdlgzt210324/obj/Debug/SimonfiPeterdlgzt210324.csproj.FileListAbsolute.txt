@@ -1,0 +1,7 @@
+C:\Users\simon\source\repos\SimonfiPeterdlgzt210324\SimonfiPeterdlgzt210324\bin\Debug\SimonfiPeterdlgzt210324.exe.config
+C:\Users\simon\source\repos\SimonfiPeterdlgzt210324\SimonfiPeterdlgzt210324\bin\Debug\SimonfiPeterdlgzt210324.exe
+C:\Users\simon\source\repos\SimonfiPeterdlgzt210324\SimonfiPeterdlgzt210324\bin\Debug\SimonfiPeterdlgzt210324.pdb
+C:\Users\simon\source\repos\SimonfiPeterdlgzt210324\SimonfiPeterdlgzt210324\obj\Debug\SimonfiPeterdlgzt210324.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\SimonfiPeterdlgzt210324\SimonfiPeterdlgzt210324\obj\Debug\SimonfiPeterdlgzt210324.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\SimonfiPeterdlgzt210324\SimonfiPeterdlgzt210324\obj\Debug\SimonfiPeterdlgzt210324.exe
+C:\Users\simon\source\repos\SimonfiPeterdlgzt210324\SimonfiPeterdlgzt210324\obj\Debug\SimonfiPeterdlgzt210324.pdb
